@@ -1,5 +1,5 @@
 # Mapping Project
-A piece of work requested by Facility team for a simple dashboard which would rpelace the excel model tehy had built. Below are 4 Pages of the 20 page report. Data included is dummy data. 
+A piece of work requested by Facility team for a simple dashboard which would replace the excel model they had built. Below are 4 Pages of the 20 page report. Data included is dummy data. 
 
 Page 1 - A simple navigation page with buttons linked to specified pages. Pages will also have security attached to ensure only those with the correct credentials can access them.
 
